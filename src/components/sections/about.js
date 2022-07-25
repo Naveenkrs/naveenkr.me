@@ -135,30 +135,23 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+            Hello, I'm Naveen Kumar, a designer with an edge of digital product design, 
+            UI/UX, and interaction design.
+            </p>
+            
+            
+            <p>
+            I'm currently a UX designer intern at  Gaana. My past experiences include working as an Experience Designer 
+            at Panasonic North America, as a Product Visual Designer at Versa, Shanghai, and as a freelance designer for 4 years. 
+            I hold a BFA in Communication Design from Parsons School of Design at New York.
+
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+            I believe in the power of design in technology, helping create a smooth interaction and delightful experience 
+            between human and products, pragmatically solving complex problems with tactical solutions, and bringing a conceptual 
+            idea to reality. I enjoy the process and the sense of achievement of contribution to the course of humanity it gives me. 
+            It makes me feel alive.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
